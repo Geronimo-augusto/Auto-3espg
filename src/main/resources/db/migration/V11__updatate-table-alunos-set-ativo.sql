@@ -1,0 +1,1 @@
+UPDATE alunos SET ativo = 1;
